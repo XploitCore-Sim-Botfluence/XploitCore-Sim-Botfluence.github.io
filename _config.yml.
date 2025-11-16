@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: XploitCore-Sim
-description: Advanced Cybersecurity Simulation & Training Framework
+description: Advanced Cybersecurity Simulation Framework
+markdown: GFM
