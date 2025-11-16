@@ -1,9 +1,0 @@
-title: XploitCore-Sim
-description: Educational penetration testing simulator
-theme: jekyll-theme-minimal
-
-nav:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
