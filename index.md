@@ -1,40 +1,43 @@
 # XploitCore‑Sim
-### Cybersecurity Simulation & Training Framework
 
-XploitCore‑Sim provides a safe, controlled environment for learning security concepts through realistic simulation flows.  
-All modules are non‑operational and designed purely for education, analysis, and training.
+**Advanced Cybersecurity Simulation & Training Framework**
 
----
-
-## What XploitCore‑Sim Does
-- Simulates cyber attack paths in a harmless sandbox  
-- Teaches security reasoning and defensive strategies  
-- Visualizes identity, blockchain, and network flow models  
-- Helps learners understand attack surfaces without risk  
-- Provides structured training scenarios  
+XploitCore‑Sim is a fully modular, non-operational training environment designed to help users understand security concepts, attack flow simulations, and defensive best‑practices.  
+No real exploitation occurs. All modules are educational and operate in a closed simulation environment.
 
 ---
 
-## Why It Exists
-Modern cybersecurity training requires hands‑on experience, but real tools are dangerous and unsafe.  
-XploitCore‑Sim solves this by offering:
-
-- A risk‑free practice environment  
-- Fully isolated simulation modules  
-- Clear breakdowns of every step in an attack flow  
-- A way for beginners to learn without harming systems  
+## Key Capabilities
+- Scenario‑based security simulations  
+- Modular plug‑in system  
+- Logging & reporting engine  
+- Multi‑role practice environment (attacker, defender, analyst)  
+- Risk‑free sandbox for learning cybersecurity concepts  
 
 ---
 
-## Upcoming Features
-- Web‑dashboard interface  
-- Modular plug‑in store  
-- Analytics + visualization engine  
-- Classroom training mode  
-- Scenario report exporter  
+## Simulation Modules
+- Identity‑based attack flow simulations  
+- Blockchain & DeFi transaction flow models  
+- Network reconnaissance visualizations  
+- Social‑engineering practice prompts  
+- Incident response walk‑throughs  
+
+---
+
+## Documentation
+Full documentation, examples, and module architecture will be added as development progresses.
+
+---
+
+## Roadmap
+- UI dashboard  
+- Module store  
+- Analytics & simulation exporter  
+- Multi‑user classroom mode  
 
 ---
 
 ## Contact
-**Email:** botfluence@protonmail.com  
-**GitHub:** https://github.com/XploitCore-Sim-Botfluence
+- GitHub: https://github.com/XploitCore-Sim-Botfluence  
+- Email: botfluence@protonmail.com
