@@ -1,0 +1,12 @@
+---
+title: About XploitCore-Sim
+---
+
+# About XploitCore-Sim
+
+XploitCore-Sim is an ethical simulation framework for learning penetration testing techniques.  
+It is designed for educational purposes only.
+
+- Simulated exploits like SIM-swap, MEV, and rug-pull  
+- Safe testing environment  
+- Logging and stealth modes included
