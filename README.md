@@ -1,25 +1,43 @@
-# XploitCore-Sim
+# XploitCore‑Sim
 
-**Simulated Penetration Testing Bot Framework**
+**Advanced Cybersecurity Simulation & Training Framework**
 
----
-
-## Features
-- Simulated exploits (SIM-swap, MEV, rug-pull, etc.)
-- Stealth mode & logging
-- Educational and ethical framework
-- Easy-to-use interface for testing scenarios
+XploitCore‑Sim is a fully modular, non-operational training environment designed to help users understand security concepts, attack flow simulations, and defensive best‑practices.  
+No real exploitation occurs. All modules are educational and operate in a closed simulation environment.
 
 ---
 
-## How It Works
-1. Add a target to simulate attacks.
-2. Select an exploit or scenario.
-3. Review simulation results and logs.
-4. Learn and improve security awareness.
+## Key Capabilities
+- Scenario‑based security simulations  
+- Modular plug‑in system  
+- Logging & reporting engine  
+- Multi‑role practice environment (attacker, defender, analyst)  
+- Risk‑free sandbox for learning cybersecurity concepts  
+
+---
+
+## Simulation Modules
+- Identity‑based attack flow simulations  
+- Blockchain & DeFi transaction flow models  
+- Network reconnaissance visualizations  
+- Social‑engineering practice prompts  
+- Incident response walk‑throughs  
+
+---
+
+## Documentation
+Full documentation, examples, and module architecture will be added as development progresses.
+
+---
+
+## Roadmap
+- UI dashboard  
+- Module store  
+- Analytics & simulation exporter  
+- Multi‑user classroom mode  
 
 ---
 
 ## Contact
-- GitHub: [XploitCore-Sim-Botfluence](https://github.com/XploitCore-Sim-Botfluence)
+- GitHub: https://github.com/XploitCore-Sim-Botfluence  
 - Email: botfluence@protonmail.com
